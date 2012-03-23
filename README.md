@@ -2,7 +2,7 @@
 
 Multilanguage module for Kohana PHP Framework, version 3.2
 
-Based on this module https://github.com/shockii/kohana-multilang version 1.0.1
+Based on this module https://github.com/shockiii/kohana-multilang version 1.0.1
 updated for Kohana 3.2 and added some features
 
 
@@ -28,7 +28,7 @@ updated for Kohana 3.2 and added some features
 			),
 			'it'		=>	array(
 				'i18n'		=> 'it',
-				'locale'    => array('de_DE.utf-8'),
+				'locale'    => array('it_IT.utf-8'),
 				'label'		=> 'italiano',
 			),
 		),
