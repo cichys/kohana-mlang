@@ -1,6 +1,7 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /**
  * Mlang module route class
+ * From the module https://github.com/shockiii/kohana-multilang
  */
 
 class Mlang_Route extends Kohana_Route {
